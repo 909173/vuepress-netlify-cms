@@ -7,7 +7,8 @@ module.exports = {
     sidebar: [
       '/',
       '/welcome',
-      '/test'
+      '/test',
+      '/テスト投稿'
     ],
     nav: [
       {
